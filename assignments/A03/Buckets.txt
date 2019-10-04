@@ -1,0 +1,30 @@
+Heap 0
+======
+Macaw, scarlet 604.974 
+Racer, blue 516.242 
+Tiger cat 428.437 
+Rhesus monkey 427.203 
+Crab, red lava 355.351 
+==============================
+
+
+Heap 1
+======
+Fox, grey 772.076 
+Deer, red 706.463 
+Dove, ring 648.45 
+Orca 569.245 
+Black bear 540.688 
+==============================
+
+
+Heap 2
+======
+Puma 1738.81 
+Paca 1417.78 
+Lourie, grey 624.756 
+Snake, carpet 461.589 
+Cormorant, king 437.205 
+==============================
+
+
