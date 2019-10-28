@@ -1,0 +1,160 @@
+0001:New York
+        1 )Hoboken 4.12411
+        2 )Jersey City 6.28151
+        3 )West New York 8.38233
+        4 )Bayonne 10.3709
+        5 )Kearny 13.2845
+
+
+0002:Los Angeles
+        1 )Huntington Park 8.03266
+        2 )Glendale 10.0956
+        3 )Monterey Park 11.1932
+        4 )South Gate 11.2304
+        5 )Alhambra 11.7672
+
+
+0003:Chicago
+        1 )Cicero 10.9015
+        2 )Oak Park 12.8341
+        3 )Berwyn 13.915
+        4 )Evanston 19.1776
+        5 )Skokie 19.495
+
+
+0004:Houston
+        1 )Pasadena 17.3342
+        2 )Missouri City 22.6321
+        3 )Pearland 23.3446
+        4 )Sugar Land 30.0238
+        5 )Friendswood 30.4375
+
+
+0005:Philadelphia
+        1 )Camden 4.88893
+        2 )Wilmington 39.8385
+        3 )Trenton 46.4401
+        4 )Vineland 53.2054
+        5 )Bethlehem 76.8915
+
+
+0006:Phoenix
+        1 )Tempe 12.6979
+        2 )Glendale 14.445
+        3 )Scottsdale 14.6448
+        4 )Peoria 21.1124
+        5 )Mesa 22.8159
+
+
+0007:San Antonio
+        1 )New Braunfels 47.3057
+        2 )San Marcos 73.8742
+        3 )Austin 118.471
+        4 )Cedar Park 136.631
+        5 )Pflugerville 140.863
+
+
+0008:San Diego
+        1 )National City 7.14665
+        2 )Chula Vista 11.0761
+        3 )La Mesa 14.1511
+        4 )El Cajon 20.5489
+        5 )Santee 22.1917
+
+
+0009:Dallas
+        1 )Irving 14.7977
+        2 )Duncanville 17.3623
+        3 )Mesquite 18.5342
+        4 )Grand Prairie 19.0893
+        5 )Richardson 20.098
+
+
+0010:San Jose
+        1 )Santa Clara 6.34458
+        2 )Campbell 7.99453
+        3 )Milpitas 10.5347
+        4 )Cupertino 13.0098
+        5 )Sunnyvale 13.6941
+
+
+0991:Aventura
+        1 )Hallandale Beach 2.89829
+        2 )North Miami Beach 3.48999
+        3 )Hollywood 6.17242
+        4 )North Miami 8.78079
+        5 )Miami Gardens 10.7611
+
+
+0992:Martinez
+        1 )Concord 10.1384
+        2 )Walnut Creek 13.5762
+        3 )Vallejo 14.279
+        4 )Berkeley 20.4443
+        5 )Richmond 20.9104
+
+
+0993:Greenfield
+        1 )West Allis 6.16504
+        2 )New Berlin 7.97597
+        3 )Wauwatosa 9.80243
+        4 )Milwaukee 12.1991
+        5 )Brookfield 13.4149
+
+
+0994:Apache Junction
+        1 )Gilbert 23.2906
+        2 )Mesa 26.1717
+        3 )Chandler 29.6795
+        4 )Scottsdale 36.0276
+        5 )Tempe 36.2641
+
+
+0995:Monrovia
+        1 )Arcadia 3.11586
+        2 )Baldwin Park 7.57067
+        3 )El Monte 8.73792
+        4 )Azusa 8.76916
+        5 )Rosemead 9.63423
+
+
+0996:Weslaco
+        1 )Pharr 19.6396
+        2 )Edinburg 23.3764
+        3 )McAllen 24.367
+        4 )Harlingen 29.6229
+        5 )Mission 33.966
+
+
+0997:Keizer
+        1 )Salem 5.29871
+        2 )Albany 39.8307
+        3 )Corvallis 50.8635
+        4 )Tigard 52.9675
+        5 )Lake Oswego 55.4052
+
+
+0998:Spanish Fork
+        1 )Provo 13.2271
+        2 )Orem 20.5162
+        3 )Lehi 34.9757
+        4 )Draper 48.8932
+        5 )Riverton 51.2783
+
+
+0999:Beloit
+        1 )Janesville 19.432
+        2 )Rockford 26.8753
+        3 )Crystal Lake 65.8825
+        4 )DeKalb 68.4314
+        5 )Madison 69.6738
+
+
+1000:Panama City
+        1 )Dothan 121.169
+        2 )Tallahassee 136.072
+        3 )Pensacola 152.332
+        4 )Albany 213.453
+        5 )Mobile 235.898
+
+
