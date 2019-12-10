@@ -10,7 +10,7 @@
 // Files:            (Main.cpp, TermColor.h)
 // Description:
 //       This program uses A Star algorithm to create a monster hunting game which should 
-//        have 5 levels. I only have 3.
+//        have 5 levels. I only have 3. After each level input y(or any character) to continue
 //        In the 1st lvl the hunter needs to reach the monster once.
 //        In the 2nd lvl the hunter needs to reach the monster 3 tmes.
 //        In the 3rd lvl the hunter needs to reach the monster a random amount of times (2-6)		
